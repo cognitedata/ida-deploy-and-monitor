@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    background: white;
+}
+
+#global_footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    column-count: 3;
+    color: white;
+    background: black;
+    text-align: center;
+}
+
+#stats-table{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
